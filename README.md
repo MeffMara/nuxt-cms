@@ -1,0 +1,2 @@
+# nuxt-cms
+learn cms
